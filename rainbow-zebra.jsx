@@ -1,4 +1,5 @@
 import { useState, useEffect, useRef } from "react";
+import { Analytics } from "@vercel/analytics/next"
 
 /* ═══════════════════════════════════════════════════════════════════════════
    RAINBOW ZEBRA EVENTS — V1 WEBSITE (MOBILE + SEO EDITION)
